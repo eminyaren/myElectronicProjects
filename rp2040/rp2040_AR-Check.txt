@@ -1,0 +1,77 @@
+AR checking written on:
+'/home/emin/Belgeler/kicad/rp2040/rp2040_AR-Check.txt'
+'action_menu_annular_check.py'
+version = 1.7.2
+Testing PCB for Annular Rings
+TH Pads >= 0.125 Vias >= 0.125
+PHD margin on PTH = 0
+
+AR Via violation of 0.085 at XY 66.2729,39.2029
+AR Via violation of 0.085 at XY 66.2729,40.1129
+AR Via violation of 0.085 at XY 65.1929,40.1229
+AR Via violation of 0.085 at XY 65.1929,39.2129
+AR Via violation of 0.085 at XY 63.2829,39.6629
+AR Via violation of 0.085 at XY 64.3629,31.4729
+AR Via violation of 0.085 at XY 61.5429,34.9829
+AR Via violation of 0.085 at XY 58.4629,37.4229
+AR Via violation of 0.085 at XY 60.9729,34.7829
+AR Via violation of 0.085 at XY 59.2229,36.6729
+AR Via violation of 0.085 at XY 62.1929,44.1229
+AR Via violation of 0.085 at XY 66.9729,46.0529
+AR Via violation of 0.085 at XY 71.7929,42.7129
+AR Via violation of 0.085 at XY 72.5129,42.7429
+AR Via violation of 0.085 at XY 74.4229,39.7529
+AR Via violation of 0.085 at XY 78.9329,40.6829
+AR Via violation of 0.085 at XY 74.9029,40.2429
+AR Via violation of 0.085 at XY 74.3829,38.9629
+AR Via violation of 0.085 at XY 68.2229,40.8829
+AR Via violation of 0.085 at XY 52.9629,43.0529
+AR Via violation of 0.085 at XY 47.1629,39.7129
+AR Via violation of 0.085 at XY 43.7329,38.2029
+AR Via violation of 0.085 at XY 26.7029,33.7029
+AR Via violation of 0.085 at XY 24.6829,32.1329
+AR Via violation of 0.085 at XY 19.3929,34.0529
+AR Via violation of 0.085 at XY 22.0329,33.1129
+AR Via violation of 0.085 at XY 22.7529,36.4829
+AR Via violation of 0.085 at XY 19.2229,36.6929
+AR Via violation of 0.085 at XY 20.1729,44.6329
+AR Via violation of 0.085 at XY 23.9329,41.3729
+AR Via violation of 0.085 at XY 23.9729,42.5729
+AR Via violation of 0.085 at XY 21.0729,35.1829
+AR Via violation of 0.085 at XY 22.9729,35.2329
+AR Via violation of 0.085 at XY 24.2629,38.6929
+AR Via violation of 0.085 at XY 24.6829,36.3629
+AR Via violation of 0.085 at XY 26.0229,47.7729
+AR Via violation of 0.085 at XY 30.5629,47.9029
+AR Via violation of 0.085 at XY 36.1329,47.9329
+AR Via violation of 0.085 at XY 41.2229,47.7229
+AR Via violation of 0.085 at XY 46.2329,47.8829
+AR Via violation of 0.085 at XY 51.4129,47.9329
+AR Via violation of 0.085 at XY 56.4829,47.8529
+AR Via violation of 0.085 at XY 61.3329,47.7729
+AR Via violation of 0.085 at XY 67.021359,45.172895
+AR Via violation of 0.085 at XY 70.9329,47.3629
+AR Via violation of 0.085 at XY 76.6829,47.3429
+AR Via violation of 0.085 at XY 81.8329,47.3229
+AR Via violation of 0.085 at XY 105.9629,38.8429
+AR Via violation of 0.085 at XY 68.0829,38.3329
+AR Via violation of 0.085 at XY 70.9729,38.0929
+AR Via violation of 0.085 at XY 103.2129,37.2129
+AR Via violation of 0.085 at XY 102.1729,47.3429
+AR Via violation of 0.085 at XY 97.0729,47.3029
+AR Via violation of 0.085 at XY 91.9629,47.3029
+AR Via violation of 0.085 at XY 86.9029,47.3029
+AR Via violation of 0.085 at XY 19.4229,30.8129
+AR Via violation of 0.085 at XY 47.1579,37.0829
+AR Via violation of 0.085 at XY 63.3229,40.8529
+AR Via violation of 0.085 at XY 68.0329,40.0129
+AR Via violation of 0.085 at XY 67.9129,39.1629
+AR Via violation of 0.085 at XY 66.6429,37.1429
+AR Via violation of 0.085 at XY 62.9729,37.1029
+AR Via violation of 0.085 at XY 62.9929,38.0529
+AR Via violation of 0.085 at XY 66.6029,42.4929
+AR Via violation of 0.085 at XY 63.1629,42.4729
+AR Via violation of 0.085 at XY 63.1129,38.9929
+VIAS that Pass = 0; Fails = 66
+TH PADS that Pass = 68; Fails = 0
+NPTH PADS that Pass = 0; Fails = 0

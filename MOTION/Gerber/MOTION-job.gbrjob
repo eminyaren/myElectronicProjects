@@ -1,0 +1,170 @@
+{
+  "Header": {
+    "GenerationSoftware": {
+      "Vendor": "KiCad",
+      "Application": "Pcbnew",
+      "Version": "(6.0.5)"
+    },
+    "CreationDate": "2022-06-09T17:00:53+03:00"
+  },
+  "GeneralSpecs": {
+    "ProjectId": {
+      "Name": "MOTION",
+      "GUID": "4d4f5449-4f4e-42e6-9b69-6361645f7063",
+      "Revision": "0.1"
+    },
+    "Size": {
+      "X": 41.9,
+      "Y": 10.1
+    },
+    "LayerNumber": 4,
+    "BoardThickness": 1.6,
+    "Finish": "None"
+  },
+  "DesignRules": [
+    {
+      "Layers": "Outer",
+      "PadToPad": 0.128,
+      "PadToTrack": 0.128,
+      "TrackToTrack": 0.128,
+      "MinLineWidth": 0.2,
+      "TrackToRegion": 0.508,
+      "RegionToRegion": 0.508
+    },
+    {
+      "Layers": "Inner",
+      "PadToPad": 0.0,
+      "PadToTrack": 0.0,
+      "TrackToTrack": 0.128,
+      "MinLineWidth": 0.2,
+      "TrackToRegion": 0.508,
+      "RegionToRegion": 0.508
+    }
+  ],
+  "FilesAttributes": [
+    {
+      "Path": "MOTION-\\u00D6_Bkr.gbr",
+      "FileFunction": "Copper,L1,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "MOTION-\\u0130\\u00E71_Bkr.gbr",
+      "FileFunction": "Copper,L2,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "MOTION-\\u0130\\u00E72_Bkr.gbr",
+      "FileFunction": "Copper,L3,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "MOTION-A_Bkr.gbr",
+      "FileFunction": "Copper,L4,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "MOTION-\\u00D6_Krem Lehim.gbr",
+      "FileFunction": "SolderPaste,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "MOTION-A_Krem Lehim.gbr",
+      "FileFunction": "SolderPaste,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "MOTION-\\u00D6_\\u0130pek bask\\u0131.gbr",
+      "FileFunction": "Legend,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "MOTION-A_ ipek bask\\u0131.gbr",
+      "FileFunction": "Legend,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "MOTION-\\u00D6_Maske.gbr",
+      "FileFunction": "SolderMask,Top",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "MOTION-A_Maske.gbr",
+      "FileFunction": "SolderMask,Bot",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "MOTION-Kenar_Kesimleri.gbr",
+      "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    }
+  ],
+  "MaterialStackup": [
+    {
+      "Type": "Legend",
+      "Name": "Top Silk Screen"
+    },
+    {
+      "Type": "SolderPaste",
+      "Name": "Top Solder Paste"
+    },
+    {
+      "Type": "SolderMask",
+      "Thickness": 0.01,
+      "Name": "Top Solder Mask"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.035,
+      "Name": "\\u00D6.Bkr"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.48,
+      "Material": "FR4",
+      "Name": "\\u00D6.Bkr/\\u0130\\u00E71.Bkr",
+      "Notes": "Type: dielectric layer 1 (from \\u00D6.Bkr to \\u0130\\u00E71.Bkr)"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.035,
+      "Name": "\\u0130\\u00E71.Bkr"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.48,
+      "Material": "FR4",
+      "Name": "\\u0130\\u00E71.Bkr/\\u0130\\u00E72.Bkr",
+      "Notes": "Type: dielectric layer 2 (from \\u0130\\u00E71.Bkr to \\u0130\\u00E72.Bkr)"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.035,
+      "Name": "\\u0130\\u00E72.Bkr"
+    },
+    {
+      "Type": "Dielectric",
+      "Thickness": 0.48,
+      "Material": "FR4",
+      "Name": "\\u0130\\u00E72.Bkr/A.Bkr",
+      "Notes": "Type: dielectric layer 3 (from \\u0130\\u00E72.Bkr to A.Bkr)"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.035,
+      "Name": "A.Bkr"
+    },
+    {
+      "Type": "SolderMask",
+      "Thickness": 0.01,
+      "Name": "Bottom Solder Mask"
+    },
+    {
+      "Type": "SolderPaste",
+      "Name": "Bottom Solder Paste"
+    },
+    {
+      "Type": "Legend",
+      "Name": "Bottom Silk Screen"
+    }
+  ]
+}

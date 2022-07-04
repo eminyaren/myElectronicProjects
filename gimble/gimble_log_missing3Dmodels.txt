@@ -1,0 +1,1 @@
+[('U301', '/home/emin/.local/share/kicad/6.0/3dmodels/WSON8-6x5.STEP')]
